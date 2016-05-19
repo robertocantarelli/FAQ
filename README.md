@@ -21,7 +21,7 @@ Let’s make some examples of big projects in the history.
  > 4. CERN project (World Wide Web)
 
 5. The project management is very important for the success of a project. 
-What are the biggest challenges to Project Management today? 
+What are the biggest challenges for Project Management today? 
 How you would face them? Ot What tools you can use to face these challenges? 
  > One of the biggest challenge is to coordinate all activities in the best way and at the right time.
 
@@ -29,15 +29,15 @@ How you would face them? Ot What tools you can use to face these challenges?
 and manage resource tools and develop resource estimates.
 How many types of Project management software are in the market? 
 Let’s talk about a specific Project management software.
- > Desktop or Web-based; Single user or Collaborative
+ > Desktop or Web-based; Single user or Collaborative; GitHub
 
 7. ISO 9000 is a set of standards for quality assurance systems.
 The document was written to help software development organizations to create a good quality product.
-For what concern the software testing what does the document suggest? 
+What does the ISO 9000 document suggest about the software testing?
  > verify requirements and how to detect errors?
 
-8. According the International Organization for Standardization (ISO) the 
-reducing energy consumption and the dependency on fossil fuels is a major challenge?
-In which way this statement could be related to the software development or project management? 
+8. According to the International Organization for Standardization (ISO) the 
+reducing of energy consumption and the dependency on fossil fuels is a major challenge?
+In which way could this statement be related to the software development or project management? 
  > Nowadays, it is very important to take the 'right' action for saving the earth from major environmental issues.
- > According to researchers the IT industry is responsible for 
+ > According to researchers the IT industry is responsible for 2% of global CO2 emissions.
