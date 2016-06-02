@@ -7,6 +7,8 @@ Let’s talk about the different __departments__ and __corporate title__ startin
 2. Let’s suppose you decided that outsourcing is a good fit for your IT organization. 
 How do you procede to identify which functions you should outsource?
 
+I would outsource all those functions whose outsourcing itself would increase the flexibility of the organization. In order to do this I think an organization should outsource for example the HR, so that costs of reallocation are not at their expense.
+
 3. For most of the 20th century, a successful firm was defined by its ability to own, 
 manage and directly control all of its assets and processes.
 Nowadays, why would a business or organization decide to outsource?
@@ -29,7 +31,8 @@ How you would face them? Ot What tools you can use to face these challenges?
 and manage resource tools and develop resource estimates.
 How many types of Project management software are in the market? 
 Let’s talk about a specific Project management software.
- > Desktop or Web-based; Single user or Collaborative; GitHub
+ > Desktop or Web-based; Single user or Collaborative; GitHub.
+GitHub is a hosting service for software development. It works in a similar way to a social network. It allows you to check how software developers work on their projects
 
 7. ISO 9000 is a set of standards for quality assurance systems.
 The document was written to help software development organizations to create a good quality product.
